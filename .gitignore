@@ -1,0 +1,8 @@
+# Source data supplied for local analysis
+*.xlsx
+lat_long.csv
+
+# Local environments and generated analysis outputs
+.venv/
+__pycache__/
+network_design_outputs/
